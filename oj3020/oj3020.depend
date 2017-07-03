@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492318388 source:c:\users\zhikun\desktop\oj_test\oj3020\main.cpp
+	<iostream>
+	<queue>
+
