@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518919660 source:c:\users\zhikun\desktop\oj\oj1012\main.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
